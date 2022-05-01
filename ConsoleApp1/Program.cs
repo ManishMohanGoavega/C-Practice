@@ -10,10 +10,15 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            // Console.Write("Enter your name: ");
+            //Console.Write("Enter your name: ");
             //string name = Console.ReadLine();
             //Console.WriteLine("Hello " + name);
-            AttributeCalculator.Add(10 , 5);
+            //Console.WriteLine(AttributeCalculator.Add(10 , 5));
+            //int num1 = 9865669;
+            //int digits = num1.GetDigits();
+            //Console.WriteLine(digits);
+            Console.WriteLine(AttributeCalculator.Add(new List<int>() { 10, 20, 40}));
+            Console.ReadLine();
         }
     }
 }

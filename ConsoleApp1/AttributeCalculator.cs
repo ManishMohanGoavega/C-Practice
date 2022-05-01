@@ -8,6 +8,7 @@ namespace ConsoleApp1
 {
     internal class AttributeCalculator
     {
+        [Obsolete("Use Add(List<int> Numbers) Method")]
         public static int Add(int FirstNumber, int SecondNumber)
         {
             return FirstNumber + SecondNumber;

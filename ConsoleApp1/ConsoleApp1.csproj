@@ -46,6 +46,7 @@
     <Compile Include="Calculator.cs" />
     <Compile Include="Class1.cs" />
     <Compile Include="AttributeCalculator.cs" />
+    <Compile Include="ExtensionMethod.cs" />
     <Compile Include="OperatorOverloading.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

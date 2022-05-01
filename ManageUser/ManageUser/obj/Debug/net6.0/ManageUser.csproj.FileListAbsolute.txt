@@ -1,0 +1,12 @@
+C:\Users\ManishMohan\source\repos\C-Practice\ManageUser\ManageUser\bin\Debug\net6.0\ManageUser.deps.json
+C:\Users\ManishMohan\source\repos\C-Practice\ManageUser\ManageUser\bin\Debug\net6.0\ManageUser.dll
+C:\Users\ManishMohan\source\repos\C-Practice\ManageUser\ManageUser\bin\Debug\net6.0\ManageUser.pdb
+C:\Users\ManishMohan\source\repos\C-Practice\ManageUser\ManageUser\obj\Debug\net6.0\ManageUser.csproj.AssemblyReference.cache
+C:\Users\ManishMohan\source\repos\C-Practice\ManageUser\ManageUser\obj\Debug\net6.0\ManageUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ManishMohan\source\repos\C-Practice\ManageUser\ManageUser\obj\Debug\net6.0\ManageUser.AssemblyInfoInputs.cache
+C:\Users\ManishMohan\source\repos\C-Practice\ManageUser\ManageUser\obj\Debug\net6.0\ManageUser.AssemblyInfo.cs
+C:\Users\ManishMohan\source\repos\C-Practice\ManageUser\ManageUser\obj\Debug\net6.0\ManageUser.csproj.CoreCompileInputs.cache
+C:\Users\ManishMohan\source\repos\C-Practice\ManageUser\ManageUser\obj\Debug\net6.0\ManageUser.dll
+C:\Users\ManishMohan\source\repos\C-Practice\ManageUser\ManageUser\obj\Debug\net6.0\refint\ManageUser.dll
+C:\Users\ManishMohan\source\repos\C-Practice\ManageUser\ManageUser\obj\Debug\net6.0\ManageUser.pdb
+C:\Users\ManishMohan\source\repos\C-Practice\ManageUser\ManageUser\obj\Debug\net6.0\ref\ManageUser.dll
